@@ -1,4 +1,4 @@
-# QuickCalculator
+# JSCalculator
 A basic calculator app written in HTML, CSS, and JavaScript. Users can perform basic mathematical functions. 
 
 # Knowledge, Skills, & Abilities
